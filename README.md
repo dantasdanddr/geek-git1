@@ -47,4 +47,8 @@ Divida esta parte em pares menores e de possível coloque
 
 ## Meta
 
-Seu nome - seuemail@gmail.com
+Seu nome - [@SeuTwitter](https://twitter.com/seuTwitter) - seuemail@gmail.com
+
+Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
+[https://github.com/seuusuaurio/seuprojeto](https://github.com/seusuario)
